@@ -1,0 +1,10 @@
+Model,d,MNIST09,MNIST38,SeVe,SeVi,ViVe
+QSVM, ,.91,.84,1.0,1.0,.95
+QNN (v1), ,.89,.64,.95,1.0,.95
+QNN (v2), ,.89,.68,1.0,1.0,.75
+(padded)  qSLP,1,.89,.81,1.0,.90,.70
+(padded)  qSLP,2,.81,.65,1.0,.60,.50
+(padded) qSLP,3,.81,.65,1.0,.60,.50
+(Single-qubit)  qSLP,1,.82,.78,1.0,1.0,.50
+(Single-qubit)  qSLP,2,.82,.70,1.0,1.0,.55
+(Single-qubit)  qSLP,3,.84,.78,1.0,.95,.45
